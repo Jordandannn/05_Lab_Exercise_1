@@ -1,0 +1,13 @@
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.AssemblyReference.cache
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.SuggestedBindingRedirects.cache
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.FrmFileName.resources
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.FrmLab1.resources
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.Properties.Resources.resources
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.GenerateResource.cache
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating Text File.csproj.CoreCompileInputs.cache
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\bin\Debug\Creating Text File.exe.config
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\bin\Debug\Creating Text File.exe
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\bin\Debug\Creating Text File.pdb
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating Text File.exe
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating Text File.pdb
+C:\Users\perez.277243\source\repos\Creating Text File\Creating Text File\obj\Debug\Creating_Text_File.FrmRegistration.resources
